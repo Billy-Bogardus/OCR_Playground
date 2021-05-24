@@ -1,0 +1,3 @@
+#Ignore images in the image Folder
+#This is to prevent personal info from being leaked.
+/img/*.jpg
